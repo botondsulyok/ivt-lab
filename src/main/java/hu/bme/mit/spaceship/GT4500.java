@@ -3,7 +3,7 @@ package hu.bme.mit.spaceship;
 /**
  * A simple spaceship with two proton torpedo stores and four lasers
  */
-public class GT4500 implements SpaceShip { // Váltson át a branch-A-ra, szerkessze egy adott fájl adott sorát, majd véglegesítse a változásokat (commit).
+public class GT4500 implements SpaceShip { //kicsit máshogy szerkesztettem
 
   private TorpedoStore primaryTorpedoStore;
   private TorpedoStore secondaryTorpedoStore;
